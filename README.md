@@ -38,6 +38,8 @@ Security tools and resources
 ## Writeup
 
 - [CTF-Mobile](https://github.com/wnagzihxa1n/CTF-Mobile):安卓逆向相关的 CTF 题目以及题解
+- [nightsite writeup](http://ctf.nightsite.biz/):毛子的 writeup
+- [Writeup by Qwaz](https://github.com/Qwaz/solved-hacking-problem):CTF problems and solutions solved by Qwaz
 
 ## 其他
 
