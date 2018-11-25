@@ -33,6 +33,7 @@ Security tools and resources
 - [PWNABLE](http://pwnable.kr/):PWN 练习
 - [IO wargame](http://io.netgarage.org/):PWN 练习
 - [PWN adventure](https://pwnadventure.com/):PWN 游戏
+- [Google CTF](https://g.co/ctf): Google CTF 平台(加入 0w1 Team:TeamSecretKey=-LS7Hebd20T5qkVD4oH7)
 
 ## Writeup
 
