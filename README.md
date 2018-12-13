@@ -20,7 +20,7 @@ Security tools and resources
 - [南京邮电大学网络攻防训练平台](http://ctf.nuptsast.com/Notice)
 - [Jarvis OJ](https://www.jarvisoj.com)
 - [Hacker101 CTF](https://ctf.hacker101.com/):在线 Web 训练平台
-- [PICOCTF](https://picoctf.com/):入门 CTF
+- [PICOCTF](https://picoctf.com/):入门 CTF，强烈推荐
 - [0ops OJ](https://ctfzone.sjtu.cn/):上交 0ops CTF
 - [i 春秋](https://www.ichunqiu.com/)
 - [Hack this site](https://www.hackthissite.org/):Web 黑客游戏
@@ -35,6 +35,7 @@ Security tools and resources
 - [PWN adventure](https://pwnadventure.com/):PWN 游戏
 - [Google CTF](https://g.co/ctf): Google CTF 平台(加入 0w1 Team:TeamSecretKey=-LS7Hebd20T5qkVD4oH7)
 - [CPUCTF](https://microcorruption.com/)：在线逆向游戏
+- [Hackme CTF](https://hackme.inndy.tw/): This is a platform for CTF beginner
 
 ## Writeup
 
