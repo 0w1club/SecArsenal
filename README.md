@@ -36,6 +36,7 @@ Security tools and resources
 - [Google CTF](https://g.co/ctf): Google CTF 平台(加入 0w1 Team:TeamSecretKey=-LS7Hebd20T5qkVD4oH7)
 - [CPUCTF](https://microcorruption.com/)：在线逆向游戏
 - [Hackme CTF](https://hackme.inndy.tw/): This is a platform for CTF beginner
+- [封神台](http://hack.zkaq.org):掌控安全在线联系靶场（带 writeup 和视频）
 
 ## Writeup
 
