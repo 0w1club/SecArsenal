@@ -38,6 +38,10 @@ Security tools and resources
 - [Hackme CTF](https://hackme.inndy.tw/): This is a platform for CTF beginner
 - [封神台](http://hack.zkaq.org):掌控安全在线联系靶场（带 writeup 和视频）
 
+## 漏洞及利用
+
+- [sploitus](https://sploitus.com): POC 查询
+
 ## Writeup
 
 - [CTF-Mobile](https://github.com/wnagzihxa1n/CTF-Mobile):安卓逆向相关的 CTF 题目以及题解
