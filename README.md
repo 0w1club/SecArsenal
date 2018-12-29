@@ -37,6 +37,7 @@ Security tools and resources
 - [CPUCTF](https://microcorruption.com/)：在线逆向游戏
 - [Hackme CTF](https://hackme.inndy.tw/): This is a platform for CTF beginner
 - [封神台](http://hack.zkaq.org):掌控安全在线联系靶场（带 writeup 和视频）
+- [墨者学院](https://www.mozhe.cn/):在线安全靶场
 
 ## 漏洞及利用
 
